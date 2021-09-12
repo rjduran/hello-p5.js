@@ -10,7 +10,7 @@ A basic p5.js project contains the following:
 
 A project that uses additional .js files or libraries can be organized using folders. Note, if you download files written in the [p5.js editor](https://editor.p5js.org/), the unzipped folder will contain all source files in the same directory by default.
 
-While, it's possible to put everything into a single index.html file, I advise against it since you are mostly working on the contents of script.js.
+While, it's possible to put everything into a single index.html file, I advise against it since you are mostly working on the contents of sketch.js.
 
 ## References
 
